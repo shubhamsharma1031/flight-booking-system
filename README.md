@@ -1,5 +1,7 @@
 # Flight Booking System
 
+![Cover](docs/cover.png)
+
 A console-based flight booking application built with **Java** and **MySQL** using **JDBC**. Users can search flights, register as passengers, book tickets with a generated PNR, view their bookings and cancel them. Seat counts stay correct even when two people book at the same time, because bookings run inside database transactions with row locking.
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
@@ -35,7 +37,7 @@ SW101   SkyWays    Jaipur     Delhi      16 Jan 2026, 06:30  1h05m      180    â
 1 flight(s) found.
 ```
 
-<!-- Add a screenshot of your own run here: ![Demo](docs/demo.png) -->
+![Console menu](docs/console_menu.png)
 
 ## Design
 
