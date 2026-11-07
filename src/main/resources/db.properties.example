@@ -1,0 +1,4 @@
+# Database connection settings. Change the password to your MySQL password.
+db.url=jdbc:mysql://localhost:3306/flight_booking
+db.user=root
+db.password=your_password_here
